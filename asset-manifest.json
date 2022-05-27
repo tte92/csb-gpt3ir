@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://tte92.github.io/csb-gpt3ir/static/css/main.81e5ac81.chunk.css",
+    "main.js": "https://tte92.github.io/csb-gpt3ir/static/js/main.36f0ce66.chunk.js",
+    "main.js.map": "https://tte92.github.io/csb-gpt3ir/static/js/main.36f0ce66.chunk.js.map",
+    "runtime~main.js": "https://tte92.github.io/csb-gpt3ir/static/js/runtime~main.013461c1.js",
+    "runtime~main.js.map": "https://tte92.github.io/csb-gpt3ir/static/js/runtime~main.013461c1.js.map",
+    "static/js/2.55c71b4c.chunk.js": "https://tte92.github.io/csb-gpt3ir/static/js/2.55c71b4c.chunk.js",
+    "static/js/2.55c71b4c.chunk.js.map": "https://tte92.github.io/csb-gpt3ir/static/js/2.55c71b4c.chunk.js.map",
+    "index.html": "https://tte92.github.io/csb-gpt3ir/index.html",
+    "precache-manifest.581d0d92d2c6f9983e639b02e0d9fa08.js": "https://tte92.github.io/csb-gpt3ir/precache-manifest.581d0d92d2c6f9983e639b02e0d9fa08.js",
+    "service-worker.js": "https://tte92.github.io/csb-gpt3ir/service-worker.js",
+    "static/css/main.81e5ac81.chunk.css.map": "https://tte92.github.io/csb-gpt3ir/static/css/main.81e5ac81.chunk.css.map"
+  }
+}
